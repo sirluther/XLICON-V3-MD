@@ -41,18 +41,18 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
+global.ytname = process.env.YT_NAME || "YT: toxic error" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "GitHub: sirluther" //ur github or insta name
 //________________________________________________________________________________________________________
-global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur location
+global.location = process.env.GL_INFO || "India, Sabzazar" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'XLICON-V3-MD' //ur bot name
+global.botname = process.env.BOT_NAME || '𝐽𝛪𝛮 𝑅𝑈𝛮𝐶𝛥𝛮𝐷𝛯𝐿' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923184070915' //ur owner number
+global.ownernumber = process.env.SUDO || '919614477116' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Salman Ahmad' //ur owner name
 //________________________________________________________________________________________________________
@@ -66,15 +66,17 @@ global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+global.packname = process.env.PACK_NAME || "ㅤㅤㅤ🍷⑉𝐓𝐇𝐄一𝐆𝐑𝐄𝐀𝐓一𝐒𝐔𝐁𝐀𝐑𝐔҂ 🍁
+ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ♪ㅤㅤㅤ 𝐃𝚫𝚪𝐋𝚰𝚴𝐆, 𝚰 𝐂𝚮𝚫𝐒𝚵 𝐆𝚯𝚫𝐋𝐒, 𝚴𝚯𝚻 𝚸𝚵𝚯𝚸𝐋𝚵💖 
+₊₉₁ ₉₆₁₄₄₇₇₁₁₆ 🍁"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝙏𝞖𝞢 𝙎𝙐𝞑𝞓𝞒𝙐"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "919614477116@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923184070915"] // Premium User
+global.premium = process.env.GL_VIP || ["919614477116"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
